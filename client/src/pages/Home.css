@@ -1,0 +1,18 @@
+.header-div{
+    width: 100%;
+    height: 100vh;
+    background: white;
+}
+.header-text{
+    font-size: 38px;
+    color: #343B46;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar-nav li a{
+    color: #DC143C !important;
+}
+.header-image{
+    width: 800px;
+}

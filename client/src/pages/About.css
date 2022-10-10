@@ -1,0 +1,9 @@
+.about{
+    margin: 5%;
+}
+.about p{
+    line-height: 32px;
+}
+.about-image{
+    height: 400px;
+}

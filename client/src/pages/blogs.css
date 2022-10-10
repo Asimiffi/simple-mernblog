@@ -1,0 +1,25 @@
+.heading{
+    display: flex; 
+    align-items: center; 
+}
+.title{
+    margin: auto;
+}
+.blog{
+    margin: 5%;
+    border-bottom: 1px grey solid;
+    padding: 2%;
+}
+.content{
+    display: block; /* Fallback for non-webkit */
+  display: -webkit-box;
+  height: 3.9em; /* Fallback for non-webkit, line-height * 2 */
+  line-height: 1.3em;
+  -webkit-line-clamp: 3; /* if you change this, make sure to change the fallback line-height and height */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.title{
+    color: #DC143C;;
+}
